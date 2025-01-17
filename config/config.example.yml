@@ -9,11 +9,11 @@
 ## This setting is MANDATORY, unless 'database_url' is used.
 ##
 db:
-  user: kemal
-  password: kemal
+  user: invidious        
   host: localhost
   port: 5432
   dbname: invidious
+
 
 ##
 ## Database configuration using a single URI. This is an
