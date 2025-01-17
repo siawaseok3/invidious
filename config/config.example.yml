@@ -579,9 +579,9 @@ default_user_preferences:
   ##   OM, PA, PE, PG, PH, PK, PL, PR, PT, PY, QA, RO, RS, RU, SA, SE, SG, SI,
   ##   SK, SN, SV, TH, TN, TR, TW, TZ, UA, UG, US, UY, VE, VN, YE, ZA, ZW
   ##
-  ## Default: US
+  ## Default: JP
   ##
-  #region: US
+  #region: JP
 
   ##
   ## Top 3 preferred languages for video captions.
